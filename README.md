@@ -3,9 +3,13 @@
 ## Setup & Run
 
 ```bash
-git clone https://github.com/AirdropScriptFA/Yurika.git && cd Yurika && pip install requests && nano proxies.txt && python main.py
+git clone https://github.com/AirdropScriptFA/Yurika.git && cd Yurika && pip install requests && python main.py
 ```
 
 ## Proxy Format 
-ip:port
-username:password@ip:port
+```
+nano proxies.txt
+```
+>ip:port
+
+>username:password@ip:port
